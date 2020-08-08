@@ -1,6 +1,6 @@
 # discordfivembot
 
-Hey, installing this may seem complicated but trust I did the hard work.
+Hey, installing this may seem complicated but trust me I did the hard work.
 
 First download the files and extract them to your desktop (for easy use).
 Go to https://nodejs.org download the one that says "Recommend for most users".
