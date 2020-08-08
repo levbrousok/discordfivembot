@@ -4,6 +4,7 @@ Hey, installing this may seem complicated but trust me I did the hard work.
 
 First download the files and extract them to your desktop (for easy use).
 Go to https://nodejs.org download the one that says "Recommend for most users".
+Then go to https://git-scm.com/downloads and get the latest verison
 Open the file and at the top where it says "discordbot" or "discordbot-master" change the top to "cmd" and press "enter".
 Then type in "npm install".
 Once that has been completed you need to head over to "https://discord.com/developers/applications".
